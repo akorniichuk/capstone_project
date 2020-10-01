@@ -20,7 +20,7 @@ This idea, potentially, could offer additional convenience to customers. As for 
  # Proper order of Jupyter Notebooks:
 
 1. Exploratory Data Analysis
-2. Baeline Methods
+2. Baseline Methods
 3. Logistic Regressions
 4. Recommender System
 
