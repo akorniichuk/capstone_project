@@ -28,5 +28,5 @@ This idea, potentially, could offer additional convenience to customers. As for 
  # Initial data can be obtained here: [Instacart](https://www.kaggle.com/c/instacart-market-basket-analysis)
 
 
- # If you have any questions/suggestions or you are currently hiring, dont hesitate to contact via [LinkedIn](https://www.linkedin.com/in/anatolii-korniichuk/)
+ ### If you have any questions/suggestions or you are currently hiring, don't hesitate to contact via [LinkedIn](https://www.linkedin.com/in/anatolii-korniichuk/)
 
