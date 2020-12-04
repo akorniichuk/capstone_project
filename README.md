@@ -15,7 +15,16 @@ What if, in addition to the point system, customers would have no need to rememb
 
 This idea, potentially, could offer additional convenience to customers. As for the retail chains, by providing aforementioned services, a flow of additional data from new loyalty card members will improve the cost savings, increase the revenue by individually suggesting new products to purchase and more importantly, when people forget to buy something, this is considered a forgone income for the store but with the system in place, chunk of that income can be 'reclaimed'.
 
+
+Imagine you walk into a store and pull up the app powered by your favourite grocery chain. From there you can choose 2 options:
+
+- predicted grocery list
+- predicted list with some number of recommendations
+
 ![](Capstone_GIF.gif)
+
+
+*Note: the entire app was deployed for demonstration purposes using StreamLit, however, the use is limited to entering a valid User_ID from the database. Therefore, the demonstration is limited to a GIF.*
 
 
 
