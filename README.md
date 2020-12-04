@@ -15,6 +15,8 @@ What if, in addition to the point system, customers would have no need to rememb
 
 This idea, potentially, could offer additional convenience to customers. As for the retail chains, by providing aforementioned services, a flow of additional data from new loyalty card members will improve the cost savings, increase the revenue by individually suggesting new products to purchase and more importantly, when people forget to buy something, this is considered a forgone income for the store but with the system in place, chunk of that income can be 'reclaimed'.
 
+![](Capstone_GIF.gif)
+
 
 
  # Proper order of Jupyter Notebooks:
